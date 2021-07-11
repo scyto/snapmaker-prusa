@@ -9,6 +9,21 @@ A350 Contributors:
  - [@nivekmai](https://github.com/nivekmai)
  - [@WilliamBosacker](https://forum.snapmaker.com/u/williambosacker)
 
+Vendor Bundle POC Contributor
+ - [@sycto](https://github.com/scyto)
+
+# WARNING
+
+
+this is the initial proof of concept - it has been tested to load in prusa, they have not yet been tested in live printing scenario.
+as such:
+
+## *** DO NOT USE THESE FILES ON A REAL PRINTER UNLESS YOU ARE CONFIDENT THEY WILL NOT CAUSE HARM & UNDERSTAND WHAT THEY DO***
+
+## How To Use with Config Wizard
+copy content of the /vendor folder in github to the users appdata folder
+now the A350, 3 test print profiles and 2 test filament types will be avaialable to add
+
 Note: Some of these configs can be reused for the A150, but currently no contributors have that model, so the usage of these settings on A150 is completely untested.
 
 Currently, all contributors use an enclosure as well which might impact your prints if you don't. We have not tested to see if that makes a big difference. Feel free to let us know.
