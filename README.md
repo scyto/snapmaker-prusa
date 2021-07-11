@@ -21,7 +21,8 @@ as such:
 ## *** DO NOT USE THESE PROOF OF CONCEPT VENDOR BUNDLE FILES ON A REAL PRINTER UNLESS YOU ARE CONFIDENT THEY WILL NOT CAUSE HARM & UNDERSTAND WHAT THEY DO ***
 
 ## How To Use with Config Wizard
-copy content of the /vendor folder in github to the users appdata folder (on windows for example C:\Users\\%username%\\AppData\Roaming\PrusaSlicer\vendor
+copy content of the /vendor folder in github to the users appdata folder
+In windows for example C:\Users\\%username%\\AppData\Roaming\PrusaSlicer\vendor\
 
 Now launch prusaslicer and run through the config wizard to add profiles.
 Now the A350, 250 and 150, 3 test print profiles and 2 test filament types will be avaialable to add - note i did not complete integration of all community profiles as this is just PoC at this point.
