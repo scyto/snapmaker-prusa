@@ -22,7 +22,11 @@ as such:
 
 ## How To Use with Config Wizard
 copy content of the /vendor folder in github to the users appdata folder (on windows for example C:\Users\\%username%\\AppData\Roaming\PrusaSlicer\vendor
-now the A350, 3 test print profiles and 2 test filament types will be avaialable to add
+
+Now launch prusaslicer and run through the config wizard to add profiles.
+Now the A350, 250 and 150, 3 test print profiles and 2 test filament types will be avaialable to add - note i did not complete integration of all community profiles as this is just PoC at this point.
+
+## ---original readme---
 
 Note: Some of these configs can be reused for the A150, but currently no contributors have that model, so the usage of these settings on A150 is completely untested.
 
