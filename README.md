@@ -18,7 +18,7 @@ Vendor Bundle POC Contributor
 this is the initial proof of concept - it has been tested to load in prusa, they have not yet been tested in live printing scenario.
 as such:
 
-## *** DO NOT USE THESE PROOF OF CONCEPT VENDOR BUNDLE FILES ON A REAL PRINTER UNLESS YOU ARE CONFIDENT THEY WILL NOT CAUSE HARM & UNDERSTAND WHAT THEY DO***
+## *** DO NOT USE THESE PROOF OF CONCEPT VENDOR BUNDLE FILES ON A REAL PRINTER UNLESS YOU ARE CONFIDENT THEY WILL NOT CAUSE HARM & UNDERSTAND WHAT THEY DO ***
 
 ## How To Use with Config Wizard
 copy content of the /vendor folder in github to the users appdata folder (on windows for example C:\Users\\%username%\\AppData\Roaming\PrusaSlicer\vendor
