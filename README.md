@@ -25,7 +25,8 @@ copy content of the /vendor folder in github to the users appdata folder
 In windows for example C:\Users\\%username%\\AppData\Roaming\PrusaSlicer\vendor\
 
 Now launch prusaslicer and run through the config wizard to add profiles.
-Now the A350, 250 and 150, 3 test print profiles and 2 test filament types will be avaialable to add - note i did not complete integration of all community profiles as this is just PoC at this point.
+Now the A350, 250 and 150, 3 of william's print profiles and 2 PLA filament types will be avaialable to add (the default one in the repo and my own one for the stock bed that should IMHO have cooler temps for snapmaker PLA).
+Note i did not complete integration of all community print profiles as this is just PoC at this point.
 
 ## ---original readme---
 
